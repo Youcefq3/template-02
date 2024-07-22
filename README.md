@@ -1,5 +1,4 @@
 # template-02
-Template-02
 
-clone the repository using `git clone "url"` command in terminal
-Run Live Server
+1. clone the repository using `git clone "url"` in terminal
+2. Run Live Server
